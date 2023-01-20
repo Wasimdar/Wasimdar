@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wasimdar
-- 👀 I’m interested in learning new Codes  
+- 👀 I’m interested in programming  
 - 🌱 I’m currently learning Computer science engineering
 - 💞️ I’m looking to collaborate on various projects 
 - 📫 How to reach me on my email darwaseem65@gmail.com
